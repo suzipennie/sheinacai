@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://daijaighuu.chalcid.org/sitemap.xml
